@@ -2,6 +2,8 @@
 
 This repo allows to easily share current versions of well known libraries for Kotlin/Java/Android between projects.
 
+## This project is deprecated. Use [github:deps.kt](https://github.com/langara/deps.kt) instead.
+
 Usage:
 - clone this repo (and then pull changes from time to time)
 - make a hard link to `deps.gradle` file in your repo
